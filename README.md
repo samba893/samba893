@@ -1,5 +1,9 @@
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=200&section=header&text=Buragadda%20Siva%20Sambaiah&fontSize=40&fontColor=ffffff"
+  width="100%"
+  alt="GitHub Profile Banner"
+/>
 <div align="center"><!-- 3D Animated Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=230&section=header&text=Siva%20Sambaiah%20Buragadda&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20ServiceNow%20Developer%20%7C%20Cloud%20%26%20IoT%20Innovator%20%7C%20Full-Stack%20Builder%20%E2%9A%A1&descAlignY=58&descSize=18" alt="Siva Sambaiah Buragadda Banner" /><!-- Animated Typing SVG -->
 <a href="https://github.com/samba893">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Siva+Sambaiah+Buragadda!;ServiceNow+Certified+CSA+%26+CAD+Professional+%F0%9F%9A%80;B.Tech+CSE+Student+%40+KITS+(CGPA:+8.16)+%F0%9F%8E%93;Building+Automated+Workflows%2C+Cloud+%26+Flutter+Apps+%F0%9F%92%BB" alt="Typing SVG" />
 </a><br /><!-- Profile Views, Social & Contact Badges -->
